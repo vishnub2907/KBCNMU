@@ -1,0 +1,23 @@
+body{
+    background-color: aquamarine;
+    font-size: 14;
+    text-shadow: violet;
+}
+h1{
+    text-align: center;
+    text-decoration: wavy;
+    color: brown;
+}
+div:hover{
+    color: darkorchid;
+    background-color: seashell;
+}
+div{
+    width: 50%;
+    height: 50%;
+    color: seashell;
+    background-color: darkorchid;
+    font-size: large;
+    border-radius: 30px;
+    text-align: center;
+}
